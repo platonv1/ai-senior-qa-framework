@@ -1,4 +1,4 @@
-#AUTHOR: Vic Saisan Platon
+# AUTHOR: Vic Saisan Platon
 
 
 # 🤖 AI Senior QA Framework
