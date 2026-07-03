@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Microsoft Office temp files
+~$*
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if any scripts are added later)
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+npm-debug.log*
+
+# Output files (may contain sensitive test data)
+# Uncomment the line below if you want to exclude QA outputs from the repo
+# .claude/outputs/
